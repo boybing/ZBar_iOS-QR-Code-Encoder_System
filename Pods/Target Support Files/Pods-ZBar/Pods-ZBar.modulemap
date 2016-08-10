@@ -1,0 +1,6 @@
+framework module Pods_ZBar {
+  umbrella header "Pods-ZBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module iOS_QR_Code_Encoder {
+  umbrella header "iOS-QR-Code-Encoder-umbrella.h"
+
+  export *
+  module * { export * }
+}

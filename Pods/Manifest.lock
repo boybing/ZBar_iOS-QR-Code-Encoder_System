@@ -1,0 +1,15 @@
+PODS:
+  - iOS-QR-Code-Encoder (0.0.1)
+  - ZBarSDK (1.3.1)
+
+DEPENDENCIES:
+  - iOS-QR-Code-Encoder
+  - ZBarSDK
+
+SPEC CHECKSUMS:
+  iOS-QR-Code-Encoder: 5aef73d5d6ecdb2031ced14e0e6eadfb8c637514
+  ZBarSDK: 4c1b5daeb7d6cc67dc9355e690af0230a661f6ec
+
+PODFILE CHECKSUM: b98fb5c668e5eaf671e2b47703550a4d51e142c6
+
+COCOAPODS: 1.0.1
